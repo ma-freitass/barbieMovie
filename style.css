@@ -185,3 +185,8 @@
        background-image: url("./assents/background.jpeg");
     }
   }
+@media screen and (max-width: 768px){
+    .container {
+        display: block;
+    }
+}
