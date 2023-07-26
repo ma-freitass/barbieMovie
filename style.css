@@ -135,11 +135,8 @@
   .ph-speaker-slash {
     display: none;
   }
-  
-  #scroll {
-    margin-left: 150px;
+
     
-  }
   
   #openModalBtn {
     cursor: pointer;
